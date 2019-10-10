@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="image_description">two people are changing euro/dollar</string>
+    <string name="text_description">Enter the amount you want to convert</string>
+    <string name="value">Amount in Dollar</string>
+    <string name="button_function">Convert!</string>
+</resources>
